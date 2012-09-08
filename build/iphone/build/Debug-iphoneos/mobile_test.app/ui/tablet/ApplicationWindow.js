@@ -1,0 +1,1 @@
+/Users/admin/Documents/Titanium_Studio_Workspace/mobile_test/Resources/ui/tablet/ApplicationWindow.js
